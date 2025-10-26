@@ -1,6 +1,7 @@
 # 🅰️ Weather forecast
 
-A modern, responsive weather forecast app, built with **Angular 17**, designed with dark/light theme.
+This is the built version of my **Weather forecast** App, a modern, responsive app, built with **Angular 17** and designed with dark/light theme.
+
 
 ![Dark theme Screenshot](./demo/screenshots/WeatherForecast-dark.png)
 
