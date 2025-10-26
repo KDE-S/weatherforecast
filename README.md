@@ -2,9 +2,9 @@
 
 A modern, responsive weather forecast app, built with **Angular 17**, designed with dark/light theme.
 
-![Dark theme Screenshot](.demo/screenshots/WeatherForecast-dark.png)
+![Dark theme Screenshot](./demo/screenshots/WeatherForecast-dark.png)
 
-![Light theme Screenshot](.demo/screenshots/WeatherForecast-light.png)
+![Light theme Screenshot](./demo/screenshots/WeatherForecast-light.png)
 
 ---
 
